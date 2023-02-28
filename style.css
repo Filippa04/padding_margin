@@ -1,0 +1,10 @@
+.h1 {
+    margin: 35 px;
+    border: 1px solid  yellow;
+    background-color: blanchedalmond;
+}
+.p{
+    padding: 35 px;
+    border: 1px solid dodgerblue;
+    background-color: tomato;
+}
